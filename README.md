@@ -1,0 +1,2 @@
+# houzez-sublistings-additioanl-fileds-and-price-searching
+In houzez theme customization, I added multiple dynamically payment plans (Title and Value) for each sub listing in front end dashboard also in wp-admin. And I also customize the search functionality for sub listing pricing, beds and bathrooms, first the search will check the sub listings's price, beds and bathroom then the parent listing.
